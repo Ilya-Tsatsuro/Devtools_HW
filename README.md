@@ -2,19 +2,21 @@
 
 ![](https://github.com/Ilya-Tsatsuro/Devtools_HW/blob/main/images/devtools.jpeg?raw=true)
 
+[Видео с выполнением задания можно посмотреть здесь](https://youtu.be/db_ozzB10-A)
+
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
- 4. Включить режим мобильного деввайса (Device Mode)
+ 4. Включить режим мобильного девайса (Device Mode)
  5. Выставить Dimensions: Responsive 
  6. Выбрать Responsive - Mobile
  7. Продемонстрировать работу дизайна Responsive
  8. Выставить Dimensions: Adaptive (select device).
- 9. Создать свой девайс.
+ 9. Создать свое устройство.
  10. Выставить Throttling low-end mobile
  11. Обновить страницу
- 12. Перевести в ландшафтные режим.
+ 12. Перевести в ландшафтный режим.
  13. Выключить Device Mode
  14. Открыть панель Console.
  15. Найти 2 сообщения Error в логах
@@ -24,7 +26,7 @@
  19. Открыть вкладку Sources.
  20. Открыть файл Index
  21. Открыть вкладку Network
- 22. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
+ 22. В URL отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  23. Найти лог request/responce  
  24. Открыть вкладку Headers
  25. Просмотреть General, Response Headers, Request Headers
@@ -35,7 +37,7 @@
  30. Развернуть все Storage в левом столбце.
  31. Зайти в Cache Storage и Application Cache
  32. Там везде будет пусто.
- 33. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
+ 33. Открыть любой сайт который хотите. (Введите URL сайта в адресную строку и нажмите Enter)
  34. Откройте вкладку LightHouse
  35. Нажмите Generate report
  36. Установить в браузер бесплатный AdBlocker
